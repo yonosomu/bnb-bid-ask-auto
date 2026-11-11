@@ -1,5 +1,11 @@
 # Liquidity Ladder — BNB & BASE
 
+<!-- tech-stack-badges -->
+<p align="center">
+![Python](https://img.shields.io/badge/Python-3.10--3.13-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Web3.py](https://img.shields.io/badge/Web3.py-6.0%2B-F16822?style=for-the-badge&logo=ethereum&logoColor=white) ![PyQt6](https://img.shields.io/badge/PyQt6-6.4%2B-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-AES--GCM-475569?style=for-the-badge) ![pytest](https://img.shields.io/badge/pytest-Tests-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+</p>
+<!-- /tech-stack-badges -->
+
 **Automated bid-ask liquidity ladder tool for Uniswap V3/V4 and PancakeSwap V3/V4.**
 
 Deploy concentrated liquidity positions across custom price ranges with advanced distribution strategies. Built for professional DeFi market makers and liquidity providers on BNB Chain and BASE.
