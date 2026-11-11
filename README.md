@@ -16,17 +16,6 @@ Deploy concentrated liquidity positions across custom price ranges with advanced
 
 ---
 
-## Purchase & Contact
-
-| | |
-|---|---|
-| **Telegram** | [@jolykedr](https://t.me/jolykedr) |
-| **Updates Channel** | [t.me/liquidityladderbnbbase](https://t.me/liquidityladderbnbbase) |
-
-> License key required. Contact via Telegram to purchase.
-
----
-
 ## Features
 
 ### Liquidity Management
